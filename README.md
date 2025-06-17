@@ -72,11 +72,11 @@
     } 
     ```
 
-4. Initialize the the project using the **terraform init** command
+4. Initialize the the project using the ``terraform init`` command
  
 ![init](./image/Init.PNG)
 
-1. Apply the terraform configurationto create the EC2 instance using the command **terraform apply**
+1. Apply the terraform configurationto create the EC2 instance using the command ``terraform apply``
 ![apply](./image/Apply.PNG)
 
 **Task2:**   AMI CREATION
