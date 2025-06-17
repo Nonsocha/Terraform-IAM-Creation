@@ -73,10 +73,11 @@
     ```
 
 4. Initialize the the project using the **terraform init** command
-![init](./image/init.PNG)
+ 
+![init](./image/Init.PNG)
 
-5. Apply the terraform configurationto create the EC2 instance using the command **terraform apply**
-![apply](./image/apply.PNG)
+1. Apply the terraform configurationto create the EC2 instance using the command **terraform apply**
+![apply](./image/Apply.PNG)
 
 **Task2:**   AMI CREATION
 1. Extend the Terraform configuration to include the creation of an AMI
@@ -159,7 +160,7 @@
  ```
  terraform apply
 ```
-![init](./image/Capture.PNG)
+![init](./image/capture.PNG)
 
 **CHALLENGE IN THE COURSE OF THE PROJECT**
 
