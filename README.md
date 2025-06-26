@@ -74,7 +74,7 @@
 
 4. Initialize the the project using the ``terraform init`` command
  
-![init](./image/Init.PNG)
+![init](./image/init.PNG)
 
 1. Apply the terraform configurationto create the EC2 instance using the command ``terraform apply``
 ![apply](./image/Apply.PNG)
