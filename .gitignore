@@ -1,1 +1,26 @@
+# Ignore Terraform state files
+*.tfstate
+*.tfstate.*
+crash.log
+terraform.tfvars
 .terraform/
+.terraform.lock.hcl
+
+# Local .tfplan files
+*.tfplan
+
+# Ignore override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Ignore sensitive files
+*.pem
+*.key
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.swp
+.DS_Store
