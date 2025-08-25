@@ -160,7 +160,7 @@
  ```
  terraform apply
 ```
-![init](./image/capture.PNG)
+![Capture](./image/Capture.PNG)
 
 **CHALLENGE IN THE COURSE OF THE PROJECT**
 
